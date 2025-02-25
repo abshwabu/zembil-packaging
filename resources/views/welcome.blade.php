@@ -132,7 +132,7 @@ Join us in creating a greener future—one package at a time.</p>
                 @forelse($blogs as $blog)
                   <div class="col-lg-4 col-md-6 blog-item pb-5" data-tags="{{ $blog->tags->pluck('name')->implode(' ') }}">
                     <div class="blog-box shadow pb-5">
-                      <img src="{{ $blog->image ? asset('storage/' . $blog->image) : asset('assets/img/blog/default.jpg') }}" alt="{{ $blog->title }}" class="img-fluid">
+                      <img src="{{ $blog->image ? asset('storage/' . $blog->image) : asset('assets/img/blog/default.png') }}" alt="{{ $blog->title }}" class="img-fluid">
                       <div class="blog-info">
                         <div class="caption">
                           <h4>{{ $blog->title }}</h4>
