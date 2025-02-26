@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Berchuma Furniture</title>
+        <title>Zembil Packaging</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Bootstrap Icons-->
@@ -23,7 +23,7 @@
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
                 <a class="navbar-brand" href="#page-top">
-                    <img src="assets/img/logo.png" alt="logo" width="200" height="150">
+                    <img src="assets/img/minimum_logo.png " alt="logo" width="250" height="200">
                 </a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -240,7 +240,7 @@ Join us in creating a greener future—one package at a time.</p>
                 <div class="row gx-4 gx-lg-5 justify-content-center" style="font-size: 2rem">
                     <div class="col-lg-6 text-center mb-5 mb-lg-0">
                         <i class="bi-phone fs-2 mb-3 text-muted" ></i>
-                        <div>+251920673534</div>
+                        <div>+251945424920</div>
                     </div>
                 </div>
             </div>
@@ -248,11 +248,11 @@ Join us in creating a greener future—one package at a time.</p>
         <!-- Footer-->
         <footer class="bg-light py-5">
                 <div class="container px-4 px-lg-5">
-                  <p>Berchuma Furniture</p>
-                  <p id="address"><i class="bi bi-geo-alt-fill"></i> Bethel, Apple plaza 2nd floor </p>
+                  <p>Zembil Packaging</p>
+                  <p id="address"><i class="bi bi-geo-alt-fill"></i> Addis Ababa, Ethiopia</p>
                   <p><i class="bi bi-telephone-fill"></i> +251919527873</p>
                   <p><i class="bi bi-telephone-fill"></i> +251945424920</p>
-                  <a href="https://t.me/berchumafurniture" target="_blank" class=" nav-link"><i class="bi-telegram"></i> Telegram</a>
+                  <a href="https://et.linkedin.com/company/zembil-packaging?trk=public_post_feed-actor-name" target="_blank" class=" nav-link"><i class="bi-linkedin"></i> LinkedIn</a>
                 </div>
                 <div class="small text-center text-muted">
                   <p>Copyright © 2023 Zembil Packaging. All rights reserved.</p>
